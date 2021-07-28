@@ -32,7 +32,7 @@ body {
 }
 
 #menu {
-  background: #cccccc;
+  background: #eed0d0;
   padding: 5px 15px;
 }
 
@@ -68,7 +68,7 @@ img {
 }
 
 article {
-  background: rgb(26, 152, 184);
+  background: rgb(168, 30, 233);
   border: 2px solid #000;
   padding: 20px;
   margin-bottom: 15px;
